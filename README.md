@@ -1,20 +1,9 @@
-### Hi there 👋
+# Hi 👋, I'm Oleg Kravtsov</h1>
+### A passionate embedded developer and YouTuber from Russia</h3>
 
-<!--
-**RadioPizza/RadioPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **SlideRemote**
+🌱 I’m currently learning **Algorithms and data structure** by Tinkoff Education
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...git s
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hello, I'm embedded developer and YouTuber!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
