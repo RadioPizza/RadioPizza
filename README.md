@@ -16,9 +16,9 @@
 
 ---
 ### You can contact me:
-[<img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50">][YT]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" height="50">][VK]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" height="50">][TG]
+[<img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="40">][YT]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" height="40">][VK]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" height="40">][TG]
 
 [YT]: https://www.youtube.com/@RadioPizzaRU
 [VK]: https://vk.com/kravtsov.oleg
