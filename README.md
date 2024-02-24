@@ -1,3 +1,4 @@
+![](https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
 ## Hi 👋, I'm Oleg Kravtsov</h1>
 ### A passionate embedded developer and YouTuber from Russia</h3>
 
@@ -13,7 +14,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Codewars](https://www.codewars.com/users/RadioPizza/badges/large)
 ### You can contact me:
 
 - [![YouTube](https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=4&origin=tag&related_id=174883)][YT]
@@ -24,4 +25,4 @@
 [VK]: https://vk.com/kravtsov.oleg
 [TG]: https://t.me/kravtsov_oleg
 
-![Codewars](https://www.codewars.com/users/RadioPizza/badges/large)
+
