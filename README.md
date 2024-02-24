@@ -26,4 +26,12 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### You can contact me:
-- YouTube
+[https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=4&origin=tag&related_id=174883][YT]
+[https://www.flaticon.com/free-icon/vk_5968835?term=vk&page=1&position=2&origin=search&related_id=5968835][VK]
+[https://www.flaticon.com/free-icon/telegram_2111646?term=logos&page=1&position=51&origin=tag&related_id=2111646][TG]
+
+[YT]: https://www.youtube.com/@RadioPizzaRU
+[VK]: https://vk.com/kravtsov.oleg
+[TG]: https://t.me/kravtsov_oleg
+
+https://www.codewars.com/users/RadioPizza/badges/large
