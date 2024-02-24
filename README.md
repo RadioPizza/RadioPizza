@@ -13,16 +13,15 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Codewars](https://www.codewars.com/users/RadioPizza/badges/large)
 
+---
 ### You can contact me:
-- [![YouTube](https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=4&origin=tag&related_id=174883)][YT]
-- [![VK](https://www.flaticon.com/free-icon/vk_5968835?term=vk&page=1&position=2&origin=search&related_id=5968835)](VK)
-- [![Telegram](https://www.flaticon.com/free-icon/telegram_2111646?term=logos&page=1&position=51&origin=tag&related_id=2111646)](https://t.me/kravtsov_oleg)
-- E-mail: okk4@tpu.ru
+[<img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50">][YT]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" height="50">][VK]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" height="50">][TG]
 
 [YT]: https://www.youtube.com/@RadioPizzaRU
 [VK]: https://vk.com/kravtsov.oleg
 [TG]: https://t.me/kravtsov_oleg
-
-
+---
+![Codewars](https://www.codewars.com/users/RadioPizza/badges/large)
