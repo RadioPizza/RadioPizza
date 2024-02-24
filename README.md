@@ -1,8 +1,8 @@
-# Hi 👋, I'm Oleg Kravtsov</h1>
+## Hi 👋, I'm Oleg Kravtsov</h1>
 ### A passionate embedded developer and YouTuber from Russia</h3>
 
-🔭 I’m currently working on **SlideRemote**
-🌱 I’m currently learning **Algorithms and data structure** by Tinkoff Education
+- 🔭 I’m currently working on **SlideRemote**
+- 🌱 I’m currently learning **Algorithms and data structure** by Tinkoff Education
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,12 +15,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### You can contact me:
-[https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=4&origin=tag&related_id=174883][YT]
-[https://www.flaticon.com/free-icon/vk_5968835?term=vk&page=1&position=2&origin=search&related_id=5968835][VK]
-[https://www.flaticon.com/free-icon/telegram_2111646?term=logos&page=1&position=51&origin=tag&related_id=2111646][TG]
+
+- [![YouTube](https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=4&origin=tag&related_id=174883)][YT]
+- [![VK](https://www.flaticon.com/free-icon/vk_5968835?term=vk&page=1&position=2&origin=search&related_id=5968835)](VK)
+- [![Telegram](https://www.flaticon.com/free-icon/telegram_2111646?term=logos&page=1&position=51&origin=tag&related_id=2111646)](https://t.me/kravtsov_oleg)
 
 [YT]: https://www.youtube.com/@RadioPizzaRU
 [VK]: https://vk.com/kravtsov.oleg
 [TG]: https://t.me/kravtsov_oleg
 
-https://www.codewars.com/users/RadioPizza/badges/large
+![Codewars](https://www.codewars.com/users/RadioPizza/badges/large)
