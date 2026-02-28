@@ -106,12 +106,11 @@
 ![512GB NVMe SSD](https://img.shields.io/badge/SSD-512GB_NVMe-0078D6?style=for-the-badge)
 ![512GB NVMe SSD](https://img.shields.io/badge/HONOR-MagicBook_View_14-999999?style=for-the-badge&logo=honor&logoColor=white)
 
-#### Домашная лаборатория
+#### Домашняя лаборатория
 
 - **Измерительное:**
     *   осциллограф `Hantek 2C10` (перепрошитый в 2D15)
     *   логический анализатор `DreamSourceLab DSLogic Plus` (16 каналов, 400 МГц)
-    *   милливольтметр `GW Instek GVT-417B`
     *   мультиметр `UNI-T UT61B`
     *   токовые клещи `UNI-T UT210E`
     *   шумомер `UNI-T UT353`
